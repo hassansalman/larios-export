@@ -931,3 +931,16 @@ ul.nostyle i {
   box-shadow: none;
   -webkit-box-shadow: none;
 }
+
+i.fa.fa-envelope {
+    color: steelblue;
+}
+
+i.fa.fa-phone-square {
+    color: steelblue;
+    font-size: large;
+}
+.topbar {
+    background: #fff;
+    font-weight: 300;
+}
